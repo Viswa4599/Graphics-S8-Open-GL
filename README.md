@@ -1,7 +1,7 @@
 # Graphics-S8-Open-GL
 
-*OpenGL assignment for Computer Graphics course in S8.
-*Contains C++ source code, stl_reader library files and input.txt (Bunny)
+* OpenGL assignment for Computer Graphics course in S8 (Submitted 24/04/21).
+* Contains C++ source code, stl_reader library files and input.txt (Bunny)
 
 ## How to run:
 * g++ 46_B170587CS.cpp -lglut -lGLU -lGL
